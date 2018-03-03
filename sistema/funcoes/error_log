@@ -1,0 +1,46 @@
+[20-Feb-2018 15:41:29 America/Sao_Paulo] PHP Notice:  Undefined index: id_usuario in /home/apowerso/public_html/sistema/funcoes/CadastroProduto.php on line 15
+[20-Feb-2018 15:53:24 America/Sao_Paulo] PHP Warning:  ftp_put(): Filename cannot be empty in /home/apowerso/public_html/sistema/funcoes/CadastrarUsuario.php on line 29
+[20-Feb-2018 15:57:26 America/Sao_Paulo] PHP Notice:  Undefined index: quantidade in /home/apowerso/public_html/sistema/funcoes/IncluirPedidoLista.php on line 10
+[20-Feb-2018 15:57:29 America/Sao_Paulo] PHP Notice:  Undefined index: quantidade in /home/apowerso/public_html/sistema/funcoes/IncluirPedidoLista.php on line 10
+[20-Feb-2018 15:57:48 America/Sao_Paulo] PHP Notice:  Undefined variable: total in /home/apowerso/public_html/sistema/funcoes/FinalizarPedido.php on line 20
+[20-Feb-2018 16:10:37 America/Sao_Paulo] PHP Notice:  Undefined index: quantidade in /home/apowerso/public_html/sistema/funcoes/IncluirPedidoLista.php on line 10
+[20-Feb-2018 16:10:41 America/Sao_Paulo] PHP Notice:  Undefined variable: total in /home/apowerso/public_html/sistema/funcoes/FinalizarPedido.php on line 20
+[20-Feb-2018 16:35:20 America/Sao_Paulo] PHP Notice:  Undefined variable: total in /home/apowerso/public_html/sistema/funcoes/FinalizarPedido.php on line 20
+[20-Feb-2018 16:35:41 America/Sao_Paulo] PHP Notice:  Undefined variable: total in /home/apowerso/public_html/sistema/funcoes/FinalizarPedido.php on line 20
+[20-Feb-2018 23:57:26 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/apowerso/public_html/sistema/config_ftp.php on line 5
+[22-Feb-2018 14:44:52 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/apowerso/public_html/sistema/config_ftp.php on line 5
+[24-Feb-2018 21:14:11 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 5
+[24-Feb-2018 21:15:14 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 5
+[24-Feb-2018 21:15:21 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 5
+[24-Feb-2018 21:16:05 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 5
+[24-Feb-2018 21:44:52 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 5
+[24-Feb-2018 21:47:11 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 5
+[24-Feb-2018 21:47:21 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 5
+[24-Feb-2018 21:48:37 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 5
+[25-Feb-2018 08:10:16 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 08:14:19 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 11:28:53 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 13:15:45 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 13:15:56 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 13:18:32 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 13:18:49 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 13:19:36 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 13:26:04 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 14:25:42 America/Sao_Paulo] PHP Notice:  Undefined index: urlImage in /home/apowerso/public_html/sistema/config_ftp.php on line 7
+[25-Feb-2018 14:25:42 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 14:57:51 America/Sao_Paulo] PHP Notice:  Undefined index: urlImage in /home/apowerso/public_html/sistema/config_ftp.php on line 7
+[25-Feb-2018 14:57:51 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 15:01:26 America/Sao_Paulo] PHP Notice:  Undefined index: urlImage in /home/apowerso/public_html/sistema/config_ftp.php on line 7
+[25-Feb-2018 15:01:27 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 15:05:23 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 15:06:34 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: senha in /home/apowerso/public_html/sistema/funcoes/mail.php on line 41
+[25-Feb-2018 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: nome in /home/apowerso/public_html/sistema/funcoes/mail.php on line 72
+[25-Feb-2018 15:08:41 America/Sao_Paulo] PHP Notice:  Undefined variable: senha in /home/apowerso/public_html/sistema/funcoes/mail.php on line 91
+[25-Feb-2018 15:08:55 America/Sao_Paulo] PHP Notice:  Undefined variable: senha in /home/apowerso/public_html/sistema/funcoes/mail.php on line 41
+[25-Feb-2018 15:08:55 America/Sao_Paulo] PHP Notice:  Undefined variable: nome in /home/apowerso/public_html/sistema/funcoes/mail.php on line 72
+[25-Feb-2018 15:08:55 America/Sao_Paulo] PHP Notice:  Undefined variable: senha in /home/apowerso/public_html/sistema/funcoes/mail.php on line 91
+[25-Feb-2018 20:41:45 America/Sao_Paulo] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/apowerso/public_html/sistema/config_ftp.php on line 9
+[25-Feb-2018 23:22:00 America/Sao_Paulo] PHP Warning:  ftp_put(): Can't open that file: No such file or directory in /home/apowerso/public_html/sistema/funcoes/AlterarProduto.php on line 30
+[25-Feb-2018 23:27:08 America/Sao_Paulo] PHP Warning:  ftp_put(): Can't open that file: No such file or directory in /home/apowerso/public_html/sistema/funcoes/AlterarProduto.php on line 30
+[25-Feb-2018 23:30:22 America/Sao_Paulo] PHP Warning:  ftp_put(): Can't open that file: No such file or directory in /home/apowerso/public_html/sistema/funcoes/AlterarProduto.php on line 30

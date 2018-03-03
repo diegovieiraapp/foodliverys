@@ -1,0 +1,193 @@
+[20-Feb-2018 14:00:18 America/Sao_Paulo] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'apowerso_market'@'localhost' (using password: YES) in /home/apowerso/public_html/sistema/conection.php on line 8
+[20-Feb-2018 14:00:21 America/Sao_Paulo] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'apowerso_market'@'localhost' (using password: YES) in /home/apowerso/public_html/sistema/conection.php on line 8
+[20-Feb-2018 14:02:25 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 14:18:51 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 14:20:03 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 14:20:31 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 14:27:52 America/Sao_Paulo] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 1
+[20-Feb-2018 14:27:52 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 1
+[20-Feb-2018 14:27:52 America/Sao_Paulo] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 387
+[20-Feb-2018 14:27:52 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 387
+[20-Feb-2018 14:28:12 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 15:41:42 America/Sao_Paulo] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 1
+[20-Feb-2018 15:41:42 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 1
+[20-Feb-2018 15:41:42 America/Sao_Paulo] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 387
+[20-Feb-2018 15:41:42 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 387
+[20-Feb-2018 15:41:48 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 15:52:22 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 16:46:15 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 17:08:52 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 17:33:52 America/Sao_Paulo] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 1
+[20-Feb-2018 17:33:52 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 1
+[20-Feb-2018 17:33:52 America/Sao_Paulo] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 387
+[20-Feb-2018 17:33:52 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 387
+[20-Feb-2018 17:33:58 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 18:55:57 America/Sao_Paulo] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 1
+[20-Feb-2018 18:55:57 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 1
+[20-Feb-2018 18:55:57 America/Sao_Paulo] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 387
+[20-Feb-2018 18:55:57 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 387
+[20-Feb-2018 18:56:00 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 19:26:35 America/Sao_Paulo] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 1
+[20-Feb-2018 19:26:35 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 1
+[20-Feb-2018 19:26:35 America/Sao_Paulo] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 387
+[20-Feb-2018 19:26:35 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 387
+[20-Feb-2018 19:26:42 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 19:29:57 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 19:30:02 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 19:30:04 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 19:30:12 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 19:30:12 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 19:30:17 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 19:30:18 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 19:37:33 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 19:37:39 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 19:37:39 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 19:37:46 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 19:37:46 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 19:50:02 America/Sao_Paulo] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 1
+[20-Feb-2018 19:50:02 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 1
+[20-Feb-2018 19:50:02 America/Sao_Paulo] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 387
+[20-Feb-2018 19:50:02 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 387
+[20-Feb-2018 23:02:07 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 23:02:15 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 23:02:15 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[20-Feb-2018 23:04:14 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 08:51:30 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 08:51:41 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 08:51:41 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 10:07:47 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 10:07:50 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 10:07:50 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 11:52:05 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 11:52:09 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 11:52:09 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 12:56:11 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 12:56:16 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 12:56:16 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 12:57:44 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 12:57:45 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 12:57:49 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 12:57:49 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 13:20:31 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 13:20:31 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 15:44:23 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 15:44:23 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 16:47:11 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 16:47:11 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 16:53:36 America/Sao_Paulo] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 1
+[21-Feb-2018 16:53:36 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 1
+[21-Feb-2018 16:53:36 America/Sao_Paulo] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 387
+[21-Feb-2018 16:53:36 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 387
+[21-Feb-2018 16:53:44 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 17:36:02 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 17:36:05 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 17:36:07 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 17:36:07 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 17:56:15 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 17:56:15 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[21-Feb-2018 22:29:44 America/Sao_Paulo] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 1
+[21-Feb-2018 22:29:44 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 1
+[21-Feb-2018 22:29:44 America/Sao_Paulo] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 387
+[21-Feb-2018 22:29:44 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 387
+[22-Feb-2018 09:36:06 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 09:36:38 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 09:37:32 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 09:37:41 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 10:28:56 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 10:28:56 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 11:33:02 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 11:33:02 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 11:33:05 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 11:33:05 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 12:13:58 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 12:14:03 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 12:14:05 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 12:14:05 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 13:18:58 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 13:18:58 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 14:06:19 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 14:43:32 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 14:43:33 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 15:12:27 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 15:12:27 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 15:23:37 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 15:23:39 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 16:37:31 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 16:37:31 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 17:35:52 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 17:35:52 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 18:49:00 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 18:49:00 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 19:07:51 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 19:07:52 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 20:25:15 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 20:25:16 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[22-Feb-2018 21:40:12 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[23-Feb-2018 11:10:38 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[23-Feb-2018 11:10:43 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[23-Feb-2018 12:00:35 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[23-Feb-2018 12:00:35 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[23-Feb-2018 13:29:55 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[23-Feb-2018 13:29:56 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[23-Feb-2018 14:10:28 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[23-Feb-2018 14:10:28 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[23-Feb-2018 18:53:22 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[23-Feb-2018 18:53:25 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[23-Feb-2018 23:39:21 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[24-Feb-2018 10:06:23 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[24-Feb-2018 18:02:04 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[24-Feb-2018 18:17:06 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[24-Feb-2018 18:17:53 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[24-Feb-2018 18:17:53 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[24-Feb-2018 21:05:22 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[24-Feb-2018 21:11:51 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[24-Feb-2018 21:27:39 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[24-Feb-2018 22:59:35 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[24-Feb-2018 23:02:20 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[24-Feb-2018 23:02:27 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[24-Feb-2018 23:02:27 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 08:07:28 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 08:08:58 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 11:17:45 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 11:17:45 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 11:17:53 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 11:17:53 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 12:18:39 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 12:18:48 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 12:18:55 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 12:20:06 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 13:55:36 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 13:55:36 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 14:36:19 America/Sao_Paulo] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 1
+[25-Feb-2018 14:36:19 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 1
+[25-Feb-2018 14:36:19 America/Sao_Paulo] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 387
+[25-Feb-2018 14:36:19 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 387
+[25-Feb-2018 14:36:32 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 14:55:06 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 14:55:46 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 17:18:05 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 17:18:06 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 18:29:27 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 19:50:47 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 20:12:28 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 20:14:59 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 20:15:01 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 20:15:01 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 20:24:36 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 20:29:44 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 20:29:52 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 20:29:52 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 20:30:31 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 20:32:08 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 20:34:30 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 20:41:53 America/Sao_Paulo] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 1
+[25-Feb-2018 20:41:53 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 1
+[25-Feb-2018 20:41:53 America/Sao_Paulo] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/apowerso/public_html/sistema/index.php on line 387
+[25-Feb-2018 20:41:53 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/apowerso/public_html/sistema/index.php on line 387
+[25-Feb-2018 23:20:17 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 23:20:24 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 23:20:27 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 23:21:03 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 23:43:11 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 23:43:12 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
+[25-Feb-2018 23:44:05 America/Sao_Paulo] PHP Notice:  Undefined index: id_perfil in /home/apowerso/public_html/sistema/config.php on line 46
