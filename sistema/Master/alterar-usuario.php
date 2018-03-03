@@ -18,7 +18,7 @@
 							$result = $conn->query($sql);
 							if ($result->num_rows > 0) {
 								while($row = $result->fetch_assoc()) {
-									echo '<form id="formCadastro" action="../funcoes/AlterarUsuario.php" method="post" class="form-horizontal">
+									echo '<form id="formCadastro" action="../funcoes/AlterarUsuario.php"  enctype="multipart/form-data" method="post" class="form-horizontal">
 											<div class="form-group">	
 												<label for="txtNomeCadastro" class="col-sm-2 col-sm-offset-2 control-label">Nome</label>
 												<div class="col-sm-5">

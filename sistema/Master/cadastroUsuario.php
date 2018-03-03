@@ -12,32 +12,32 @@
 							<div class="form-group">	
 								<label for="txtNomeCadastro" class="col-sm-2 col-sm-offset-2 control-label">Nome</label>
 								<div class="col-sm-5">
-									<input class="form-control input-lg" type="text" id="txtNomeCadastro" name="nome" placeholder="Nome">
+									<input class="form-control input-lg" type="text" id="txtNomeCadastro" name="nome" placeholder="Nome" required>
 								</div>
 							</div><!-- .form-group -->
 							<div class="form-group">	
 								<label for="txtEmailCadastro" class="col-sm-2 col-sm-offset-2 control-label">Email</label>
 								<div class="col-sm-5">
-									<input class="form-control input-lg" type="text" id="txtEmailCadastro" name="email" placeholder="Email">
+									<input class="form-control input-lg" type="text" id="txtEmailCadastro" name="email" placeholder="Email" required>
 								</div>
 							</div><!-- .form-group -->
 							<div class="form-group">	
 								<label for="txtEnderecoCadastro" class="col-sm-2 col-sm-offset-2 control-label">Endereço</label>
 								<div class="col-sm-5">
-									<input class="form-control input-lg" type="text" id="txtEnderecoCadastro" name="endereco" placeholder="Endereço">
+									<input class="form-control input-lg" type="text" id="txtEnderecoCadastro" name="endereco" placeholder="Endereço" required>
 								</div>
 							</div><!-- .form-group -->
 							<div class="form-group">	
 								<label for="txtTelefoneCadastro" class="col-sm-2 col-sm-offset-2 control-label">Telefone</label>
 								<div class="col-sm-3">
-									<input class="form-control input-lg" type="text" id="txtTelefoneCadastro" name="telefone" placeholder="Telefone">
+									<input class="form-control input-lg" type="text" id="txtTelefoneCadastro" name="telefone" placeholder="Telefone" required>
 								</div>
 								
 							</div><!-- .form-group -->
 							<div class="form-group">	
 								<label for="txtTelefoneCadastro" class="col-sm-2 col-sm-offset-2 control-label">Senha</label>
 								<div class="col-sm-3">
-									<input class="form-control input-lg" type="password" id="txtSenhaCadastro" name="password" placeholder="Senha">
+									<input class="form-control input-lg" type="password" id="txtSenhaCadastro" name="password" placeholder="Senha" required>
 								</div>
 								
 							</div><!-- .form-group -->

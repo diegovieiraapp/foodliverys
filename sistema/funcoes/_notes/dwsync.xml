@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AlterarSenha.php" server="ftp.foodliverys.com" local="131645818414084857" remote="131641462800000000" Dst="1" />
+<file name="AlterarUsuario.php" server="ftp.foodliverys.com" local="131645818414275007" remote="131643726600000000" Dst="1" />
+<file name="AlterarProduto.php" server="ftp.foodliverys.com" local="131645818414465105" remote="131643726600000000" Dst="1" />
+<file name="AprovarPedido.php" server="ftp.foodliverys.com" local="131645818421049719" remote="131643726600000000" Dst="1" />
+<file name="CadastrarUsuario.php" server="ftp.foodliverys.com" local="131645818421149810" remote="131643726600000000" Dst="1" />
+<file name="CadastrarUsuarioComum.php" server="ftp.foodliverys.com" local="131645818421270045" remote="131643726600000000" Dst="1" />
+<file name="CadastroProduto.php" server="ftp.foodliverys.com" local="131645818427922146" remote="131643726600000000" Dst="1" />
+<file name="CancelarPedido.php" server="ftp.foodliverys.com" local="131645818428042235" remote="131643726600000000" Dst="1" />
+<file name="ConsultarCliente.php" server="ftp.foodliverys.com" local="131645818428122287" remote="131643726600000000" Dst="1" />
+<file name="ConsultarPedidoMercado.php" server="ftp.foodliverys.com" local="131645818428042235" remote="131643724800000000" Dst="1" />
+<file name="ConsultarMercado.php" server="ftp.foodliverys.com" local="131645818434913860" remote="131643726600000000" Dst="1" />
+<file name="ConsultarPedidos.php" server="ftp.foodliverys.com" local="131645818435094062" remote="131643669600000000" Dst="1" />
+<file name="ConsultarProdutos.php" server="ftp.foodliverys.com" local="131645818442032863" remote="131643726600000000" Dst="1" />
+<file name="ExcluirProduto.php" server="ftp.foodliverys.com" local="131645818442736184" remote="131643726600000000" Dst="1" />
+<file name="ExcluirUsuario.php" server="ftp.foodliverys.com" local="131645818442976319" remote="131643726600000000" Dst="1" />
+<file name="FinalizarPedido.php" server="ftp.foodliverys.com" local="131645818450114258" remote="131643726600000000" Dst="1" />
+<file name="PedidoEntregue.php" server="ftp.foodliverys.com" local="131645818450224202" remote="131643726600000000" Dst="1" />
+<file name="IncluirPedidoLista.php" server="ftp.foodliverys.com" local="131645818450584914" remote="131643726600000000" Dst="1" />
+<file name="RemoverItemLista.php" server="ftp.foodliverys.com" local="131645818457291433" remote="131643726600000000" Dst="1" />
+<file name="VerificaNovosPedidos.php" server="ftp.foodliverys.com" local="131645818457401384" remote="131643726600000000" Dst="1" />
+<file name="VerificaPedido.php" server="ftp.foodliverys.com" local="131645818457551494" remote="131643726600000000" Dst="1" />
+<file name="error_log" server="ftp.foodliverys.com" local="131645818465045093" remote="131643726600000000" Dst="1" />
+<file name="mail.php" server="ftp.foodliverys.com" local="131645818465235223" remote="131643726600000000" Dst="1" />
+</dwsync>

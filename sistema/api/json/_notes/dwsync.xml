@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="arrays.txt" server="ftp.foodliverys.com" local="131645816955760399" remote="131627826600000000" Dst="1" />
+<file name="consultaClientes.json" server="ftp.foodliverys.com" local="131645816956631085" remote="131643727200000000" Dst="1" />
+<file name="consultaMercado.json" server="ftp.foodliverys.com" local="131645816965607348" remote="131643727200000000" Dst="1" />
+<file name="consultaPedido.json" server="ftp.foodliverys.com" local="131645816965647376" remote="131645117400000000" Dst="1" />
+<file name="consultaPedidos.json" server="ftp.foodliverys.com" local="131645816966137722" remote="131644229400000000" Dst="1" />
+<file name="dataBebidas.json" server="ftp.foodliverys.com" local="131645816974201274" remote="131629289400000000" Dst="1" />
+<file name="dataCarnes.json" server="ftp.foodliverys.com" local="131645816974211301" remote="131629289400000000" Dst="1" />
+<file name="data.json" server="ftp.foodliverys.com" local="131645816974231291" remote="131079456000000000" Dst="1" />
+<file name="dataCongelados.json" server="ftp.foodliverys.com" local="131645816982037762" remote="131629289400000000" Dst="1" />
+<file name="dataFrios.json" server="ftp.foodliverys.com" local="131645816982047789" remote="131629289400000000" Dst="1" />
+<file name="dataHigiene.json" server="ftp.foodliverys.com" local="131645816982057800" remote="131629289400000000" Dst="1" />
+<file name="dataLimpeza.json" server="ftp.foodliverys.com" local="131645816990998417" remote="131629289400000000" Dst="1" />
+<file name="dataMercearia.json" server="ftp.foodliverys.com" local="131645816991008420" remote="131629289400000000" Dst="1" />
+<file name="dataHortifruti.json" server="ftp.foodliverys.com" local="131645816991018471" remote="131629289400000000" Dst="1" />
+<file name="dataPadaria.json" server="ftp.foodliverys.com" local="131645816997674772" remote="131629289400000000" Dst="1" />
+<file name="dataPescados.json" server="ftp.foodliverys.com" local="131645816997684775" remote="131629289400000000" Dst="1" />
+<file name="dataPetshop.json" server="ftp.foodliverys.com" local="131645816998290375" remote="131630133600000000" Dst="1" />
+<file name="dataTable.json" server="ftp.foodliverys.com" local="131645817005789212" remote="131025024000000000" Dst="1" />
+<file name="dataSuplementos.json" server="ftp.foodliverys.com" local="131645817005809214" remote="131629289400000000" Dst="1" />
+<file name="dataUtensilios.json" server="ftp.foodliverys.com" local="131645817011801102" remote="131629289400000000" Dst="1" />
+</dwsync>
